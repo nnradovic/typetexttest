@@ -1,0 +1,19 @@
+.well{
+	display:none;
+	/* -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;*/
+}
+
+img{
+   display: block;
+   margin: 0 auto;
+
+}
+
+h3 {
+	text-align: center;
+}
